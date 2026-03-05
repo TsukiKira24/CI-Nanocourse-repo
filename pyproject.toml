@@ -1,13 +1,13 @@
 [project]
-name ="ci-nanocourse-demo"
-version ="0.1.0"
-description ="Demo project fot CI nanocourse"
-[{ name = "Partner A + Partner B" }]
-requires-python = ">= 3.9"
+name = "ci-nanocourse-demo"
+version = "0.1.0"
+description = "Demo project for CI nanocourse"
+authors = [{ name = "Partner A + Partner B" }]
+requires-python = ">=3.9"
 dependencies = []
 
 [project.scripts]
-new_package_for_nanocourse = "new_package_for_nanocourse.hello:main" 
+new_package_for_nanocourse = "new_package_for_nanocourse.hello:main"
 
 [project.optional-dependencies]
 dev = [
