@@ -8,3 +8,8 @@ dependencies = []
 
 [project.scripts]
 new_package_for_nanocourse = "new_package_for_nanocourse.hello:main" 
+
+[project.optional-dependencies]
+tests = [
+  "pytest",
+]
