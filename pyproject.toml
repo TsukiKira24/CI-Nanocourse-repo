@@ -10,6 +10,7 @@ dependencies = []
 new_package_for_nanocourse = "new_package_for_nanocourse.hello:main" 
 
 [project.optional-dependencies]
-tests = [
-  "pytest",
+dev = [
+  "pre-commit",
+  "ruff",
 ]
