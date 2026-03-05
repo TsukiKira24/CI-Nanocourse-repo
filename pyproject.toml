@@ -5,3 +5,6 @@ description ="Demo project fot CI nanocourse"
 authors = [(name="Partner A + Partner B"}]
 requires-python = ">= 3.9"
 dependencies = []
+
+[project.scripts]
+<new_package_for_nanocourse> = "new_package_for_nanocourse.hello:main"
