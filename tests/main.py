@@ -1,3 +1,3 @@
 #Fantastic work!
-if _main_ == "_main_":
+if __name__ == "__main__":
     print("hello")
