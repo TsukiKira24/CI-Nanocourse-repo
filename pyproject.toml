@@ -7,4 +7,4 @@ requires-python = ">= 3.9"
 dependencies = []
 
 [project.scripts]
-new_package_for_nanocourse = "new_package_for_nanocourse.hello:main"
+new_package_for_nanocourse = "new_package_for_nanocourse.hello:main" 
