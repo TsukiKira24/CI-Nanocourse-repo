@@ -8,3 +8,5 @@ src/ci_nanocourse_demo.egg-info/requires.txt
 src/ci_nanocourse_demo.egg-info/top_level.txt
 src/new_package_for_nanocourse/__init__.py
 src/new_package_for_nanocourse/hello.py
+src/new_package_for_nanocourse/scratchy.py
+src/new_package_for_nanocourse/stats.py
