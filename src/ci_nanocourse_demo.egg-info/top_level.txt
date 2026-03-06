@@ -1,1 +1,3 @@
+conftest
 new_package_for_nanocourse
+new_test_for_nanocourse
