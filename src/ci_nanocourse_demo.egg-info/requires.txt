@@ -2,4 +2,6 @@
 [dev]
 pre-commit
 ruff
+
+[test]
 pytest
