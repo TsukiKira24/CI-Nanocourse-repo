@@ -3,5 +3,19 @@
 pre-commit
 ruff
 
+[docs]
+numpydoc
+nbconvert
+sphinx<6.0.0
+sphinx_rtd_theme
+sphinx-copybutton
+sphinx-issues
+sphinx-design
+pyyaml
+pydata_sphinx_theme==0.10.0rc2
+sphinx-toolbox
+mss
+codespell
+
 [test]
 pytest

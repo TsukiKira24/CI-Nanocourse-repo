@@ -1,5 +1,6 @@
 README.md
 pyproject.toml
+src/conftest.py
 src/ci_nanocourse_demo.egg-info/PKG-INFO
 src/ci_nanocourse_demo.egg-info/SOURCES.txt
 src/ci_nanocourse_demo.egg-info/dependency_links.txt
@@ -10,3 +11,4 @@ src/new_package_for_nanocourse/__init__.py
 src/new_package_for_nanocourse/hello.py
 src/new_package_for_nanocourse/scratchy.py
 src/new_package_for_nanocourse/stats.py
+src/new_test_for_nanocourse/test_stats.py
