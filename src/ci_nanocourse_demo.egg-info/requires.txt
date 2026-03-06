@@ -2,3 +2,4 @@
 [dev]
 pre-commit
 ruff
+pytest

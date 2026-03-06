@@ -14,7 +14,8 @@ dev = [
   "pre-commit",
   "ruff",
 ]
-[project.optional-dependencies]
-tests = [
+
+test = [
   "pytest",
 ]
+
