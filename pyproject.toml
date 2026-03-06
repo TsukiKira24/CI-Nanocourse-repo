@@ -15,3 +15,8 @@ dev = [
   "ruff",
   "pytest"
 ]
+
+test = [
+  "pytest",
+]
+
