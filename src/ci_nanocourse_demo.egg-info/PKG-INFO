@@ -1,0 +1,9 @@
+Metadata-Version: 2.4
+Name: ci-nanocourse-demo
+Version: 0.1.0
+Summary: Demo project for CI nanocourse
+Author: Partner A + Partner B
+Requires-Python: >=3.9
+Provides-Extra: dev
+Requires-Dist: pre-commit; extra == "dev"
+Requires-Dist: ruff; extra == "dev"

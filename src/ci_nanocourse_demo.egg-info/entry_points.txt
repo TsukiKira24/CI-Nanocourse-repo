@@ -1,0 +1,2 @@
+[console_scripts]
+new_package_for_nanocourse = new_package_for_nanocourse.hello:main
