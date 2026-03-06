@@ -1,7 +1,7 @@
 on:
   pull_request:
   push:
-    branches: [main, develop]
+    branches: [main, develop, UTSW]
 
 jobs:
   test:
@@ -11,5 +11,5 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.11"
-      - run: pip install -e ".[tests]"
+      - run: pip install -e ".[test]"
       - run: pytest -q
